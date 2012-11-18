@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloJni</string>
+    <string name="originalbtn">原图</string>
+    <string name="javabutton">使用JAVA转换灰度图</string>
+    <string name="ndkbutton">使用NDK转换灰度图</string>
+    <string name="javagaussianbutton">使用JAVA进行高斯模糊</string>
+    <string name="ndkgaussianbutton">使用NDK进行高斯模糊</string>
+    <string name="desc">测试图片视图</string>
+</resources>
